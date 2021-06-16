@@ -1,0 +1,44 @@
+
+/* ----------- Related images -------------*/
+.ngg-related-gallery {
+	background:#F9F9F9;
+	border:1px solid #E0E0E0;
+	overflow:hidden;
+	margin-bottom:1em;
+	margin-top:1em;
+	padding:5px;
+}
+.ngg-related-gallery img {
+	border: 1px solid #DDDDDD;
+	float: left;
+	margin: 0pt 3px;
+	padding: 2px;
+	height: 50px;
+	width:  50px;
+}
+
+.ngg-related-gallery img:hover {
+	border: 1px solid #000000;
+}
+
+/*
+     FILE ARCHIVED ON 21:40:49 Feb 13, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:30:32 Jun 16, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 150.006
+  exclusion.robots: 0.24
+  exclusion.robots.policy: 0.231
+  RedisCDXSource: 1.747
+  esindex: 0.009
+  LoadShardBlock: 114.201 (3)
+  PetaboxLoader3.datanode: 63.633 (4)
+  CDXLines.iter: 30.314 (3)
+  PetaboxLoader3.resolve: 93.953 (2)
+  load_resource: 78.51
+*/
