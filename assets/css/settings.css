@@ -563,10 +563,10 @@ website:   	http://www.themepunch.com
   .tp-rightarrow.square-old								{	z-index:100;cursor:pointer; position:relative;	background:url(/web/20150213214104im_/http://www.hollywood-arts.org/wp-content/plugins/revslider/rs-plugin/assets/arrow_right2.png) no-repeat top left;	width:12px;	height:17px;   float:left;	margin-left:0px; margin-top:0px;}
   
   
-  .tp-leftarrow.default									{	z-index:100;cursor:pointer; position:relative;	background:url(/web/20150213214104im_/http://www.hollywood-arts.org/wp-content/plugins/revslider/rs-plugin/assets/large_left.png) no-repeat 0 0;	width:40px;	height:40px;
+  .tp-leftarrow.default									{	z-index:100;cursor:pointer; position:relative;	background:url(http://www.europrojekt.me/resources/global/plugins/slider-revolution-slider/rs-plugin/assets/arrow_large_left.png) no-repeat 0 0;	width:46px;	height:46px;
   
                                                           }
-  .tp-rightarrow.default									{	z-index:100;cursor:pointer; position:relative;	background:url(/web/20150213214104im_/http://www.hollywood-arts.org/wp-content/plugins/revslider/rs-plugin/assets/large_right.png) no-repeat 0 0;	width:40px;	height:40px;
+  .tp-rightarrow.default									{	z-index:100;cursor:pointer; position:relative;	background:url(http://www.europrojekt.me/resources/global/plugins/slider-revolution-slider/rs-plugin/assets/arrow_large_right.png) no-repeat 0 0;	width:46px;	height:46px;
   
                                                           }
   
