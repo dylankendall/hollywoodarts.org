@@ -1824,6 +1824,7 @@ img#wpstats {
 	width: 70%;
 	float: right;
 	margin-top: 30px;
+	text-align: center;
 }
 
 .title-separator {
@@ -1831,6 +1832,7 @@ img#wpstats {
 	height: 34px;
 	position: relative;
 	text-align: center;
+	margin-top: 10px;
 }
 
 .title-separator .text {
@@ -1853,6 +1855,7 @@ img#wpstats {
 	width: 90%;
 	clear: both;
 	margin: 15px auto;
+	position: relative;
 }
 
 .top-socials .top-social {
@@ -2438,3 +2441,21 @@ playback timings (ms):
   PetaboxLoader3.resolve: 44.201
   CDXLines.iter: 23.156 (3)
 */
+
+.original-site {
+	text-align: center;
+	color: #BA2626;
+	font-size: 24px;
+	font-weight: bold;
+	margin: 0px;
+	padding: 0px;
+	text-transform: uppercase;
+}
+
+.original-site:hover {
+	opacity: 0.8;
+}
+
+.no-margin {
+	margin: 0px;
+}
